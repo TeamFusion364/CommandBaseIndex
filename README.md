@@ -9,8 +9,10 @@ Each command features notes describing the expected behavior, and the neccessary
   **Note: This repository is a WIP, and is continuously under construction**
 
 # Current Subsystems:
-LED.java - Addressable LED strip with indicators for the robot's state.
-NavXIMU.java - NavX Gyro implementation with X-Y + Heading smartdashboard telemetry, and optional additional diagnostic telemetry.
+**LED.java** - Addressable LED strip with indicators for the robot's state.
+
+
+**NavXIMU.java** - NavX Gyro implementation with X-Y + Heading smartdashboard telemetry, and optional additional diagnostic telemetry.
 
 
 # Current Commands
